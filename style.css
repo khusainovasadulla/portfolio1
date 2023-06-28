@@ -30,7 +30,7 @@ h1:hover button {
 body {
     background-color: white;
 }
-iframe {
+video {
     width: 400px;
     margin-left: -0.5px;
 }
@@ -108,13 +108,96 @@ h3 i {
 }
 
 .rotz {
-    margin-left: 550px;
+    margin-left: 650px;
     font-size: 22px;
     font-weight: 900;
     margin-top: -67px;
 }
 
 .anon {
-    margin-left: 599.5px;
-    margin-top: 2.5px;
+    margin-left: 665px;
+    margin-top: 7.5px;
+}
+span {
+    color: rgb(0, 0, 0);
+}
+span:hover {
+    transition-duration: 0.5s;
+    color: rgb(247, 0, 255);
+}
+#dane {
+    margin-top: 0px;
+}
+.p {
+    margin-top: 73px;
+    background: black;
+    height: 18px;
+    margin-left: -7.6px;
+    width: 1365.5px;
+}
+.devka {
+    margin-left: 500px;
+    margin-top: -50000px;
+}
+.v {
+    margin-top: -35px;
+}
+.gey {
+    background: black;
+    margin-left: 500px;
+    width: 400px;
+    height: 10px;
+    font-size: 0.5px;
+    margin-top: -3px;
+}
+.ioio {
+    background: black;
+    margin-left: 492.4px;
+    position: fixed;
+    height: 243.5px;
+    margin-top: -243.5px;
+}
+.xxx {
+    background: black;
+    margin-left: 900px;
+    position: fixed;
+    margin-top: -243.5px; 
+    height: 243.5px;
+}
+.ooo {
+    background: black;
+    margin-left: 492px;
+    margin-top: -250px;
+    font-size: 1px;
+    height: 10px;
+    width: 415px;
+}
+.rz {
+    background: black;
+    margin-top: 260px;
+    font-size: 1px;
+    margin-left: -10px;
+    width: 1368px;
+}
+.roz {
+    text-align: center;
+    margin-top: 75px;
+}
+.lakaka {
+    margin-top: -488px;
+    margin-left: 450px;
+    background: black;
+    position: fixed;
+    font-size: 1px;
+    width: 1px;
+    height: 394px;
+}
+.ot {
+    margin-top: -488px;
+    margin-left: 940px;
+    font-size: 1px;
+    background: black;
+    position: fixed;
+    height: 394px;
+    
 }
